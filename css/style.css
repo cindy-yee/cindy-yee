@@ -44,6 +44,20 @@ body{
     .content{
         padding:5px;
     }
+
+    p{
+        font-size:2vw;
+    }
+
+    h1{
+        font-size:5vw;
+    }
+    h2{
+        font-size:4vw;
+    }
+    h5{
+        font-size:3vw;
+    }
 }
 
 @media only screen and (min-width: 768px){
