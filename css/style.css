@@ -42,6 +42,9 @@ body{
     .panel-item{
         margin:2px;
     }
+    .panel-content{
+        padding:10px;
+    }
     .content{
         padding:5px;
     }
