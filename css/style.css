@@ -51,9 +51,11 @@ body{
 
     h1{
         font-size:8vw;
+        font-weight:bold;
     }
     h2{
         font-size:7vw;
+        font-weight:bold;
     }
     h5{
         font-size:6vw;
