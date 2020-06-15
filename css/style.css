@@ -50,7 +50,7 @@ body{
     }
 }
 
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 768px){
     .parallax{
         background-image: url('../media/placeholder.jpg');
         min-height: 700px;
