@@ -16,10 +16,10 @@ body{
 }
 
 .panel-container{
-    padding:20px;
+    padding:2px;
     display:flex;
     flex-direction:row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -38,10 +38,6 @@ body{
 }
 
 @media only screen and (max-width: 768px){
-    .panel-container{
-        flex-wrap:wrap;
-        padding:2px;
-    }
     .panel-item{
         margin:2px;
     }
@@ -62,5 +58,10 @@ body{
 
     .picture{
         display:none;
+    }
+
+    .panel-container{
+        flex-wrap:nowrap;
+        padding:20px;
     }
 }
