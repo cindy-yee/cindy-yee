@@ -66,9 +66,9 @@ body{
     }
 }
 
-.top img{
-    width:70%;
-    height:auto;
+.profilepic1 img{
+    height:40vw;
+    width:auto;
 }
 
 @media only screen and (min-width: 768px){
@@ -90,8 +90,8 @@ body{
         padding:20px;
     }
 
-    .top img{
-        width:80%;
-        height:auto;
+    .profilepic1 img{
+        height:60vw;
+        width:auto;
     }
 }
