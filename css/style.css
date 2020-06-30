@@ -66,6 +66,11 @@ body{
     }
 }
 
+.top img{
+    width:70%;
+    height:auto;
+}
+
 @media only screen and (min-width: 768px){
     .parallax{
         background-image: url('../media/Cindy-2.jpg');
@@ -83,5 +88,10 @@ body{
     .panel-container{
         flex-wrap:nowrap;
         padding:20px;
+    }
+
+    .top img{
+        width:80%;
+        height:auto;
     }
 }
