@@ -66,11 +66,6 @@ body{
     }
 }
 
-.profilepic1 img{
-    height:40vw;
-    width:auto;
-}
-
 @media only screen and (min-width: 768px){
     .parallax{
         background-image: url('../media/Cindy-2.jpg');
@@ -88,10 +83,5 @@ body{
     .panel-container{
         flex-wrap:nowrap;
         padding:20px;
-    }
-
-    .profilepic1 img{
-        height:60vw;
-        width:auto;
     }
 }
